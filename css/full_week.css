@@ -1,0 +1,40 @@
+h1{
+    font-size: 48px;
+    color: rgb(65, 55, 55);
+    margin: 12px 0;
+}
+#description{
+    margin-bottom: 36px;
+}
+a{
+    padding: 12px 48px;
+    background-color: rgb(26, 54, 165);
+    color: white;
+    border-radius: 4px;
+    font-size: 24px;
+}
+a:hover{
+    text-decoration: none;
+    background-color:rgb(59, 84, 184); ;
+}
+ol{
+    list-style: none;
+    width: 700px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+li{
+    padding: 16px;
+    background-color: rgb(255, 192, 115);
+    border-radius: 6px;
+    margin: 32px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0,0.3);
+}
+main p{
+    margin: 12px;
+    color: rgb(9, 131, 152);
+}
+.imp{
+    background-color: rgb(250, 169, 115);
+}
